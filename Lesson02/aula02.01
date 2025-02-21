@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-U">
+        <title>Listas</title>
+    </head>
+    <body>
+        <h1>WELCOME TO MY PAGE !</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, earum, fugiat totam suscipit deleniti asperiores necessitatibus quia, quidem minima nesciunt laboriosam eum perspiciatis ratione sapiente veritatis iste repudiandae vero fuga.</p>
+        <hr></hr>
+        <h2>Conteúdo: Lista Ordernada e Não ordenada</h2>
+        <p>Lista Ordenada</p>
+        <ol>
+            <!-- É utilizada a tag <ol> e <li> para listas ordenadas -->
+            <b><p>Lista dos melhores cursos de cybersecurity</b></p>
+            <li><a href="https://desecsecurity.com/home">Desec Security</a></li>
+            <li><a href="https://hackingclub.com/">Hacking Club</a></li> 
+            <!--A tag <a href="">...</a> Está sendo utilizada para realizar menção a outros sites fora do nosso HTML.-->
+        </ol>
+        <p>Lista não ordenada</p>
+        <ul>
+            <!-- É utilizada a tag <ul> e <li> para listas não ordenadas -->
+            <b><p>Idiomas que eu Falo e quero falar</b></p>
+            <li>Português (Nativo)</li>
+            <li>Inlês (Aprendendo)</li>
+            <li>Frânces (Pretendo Aprender)</li>
+        </ul>
+    </body>
+</html>
